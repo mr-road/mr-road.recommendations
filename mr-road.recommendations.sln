@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mr-road.recommendations", "src\mr-road.recommendations\mr-road.recommendations.csproj", "{86ED7285-2258-4AD1-AD27-C742E6AEEE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mr-road.recommendations.tests.unit", "src\mr-road.recommendations.tests.unit\mr-road.recommendations.tests.unit.csproj", "{C0009B50-9A96-4C19-8252-8E4AC8DAF829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86ED7285-2258-4AD1-AD27-C742E6AEEE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED7285-2258-4AD1-AD27-C742E6AEEE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED7285-2258-4AD1-AD27-C742E6AEEE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED7285-2258-4AD1-AD27-C742E6AEEE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0009B50-9A96-4C19-8252-8E4AC8DAF829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = src\mr-road.recommendations\mr-road.recommendations.csproj
+	EndGlobalSection
+EndGlobal
