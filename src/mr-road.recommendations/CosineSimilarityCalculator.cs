@@ -31,7 +31,7 @@ namespace mrroad.recommendations
 				return 0;
 			}
 
-			return dotProduct / (absVectorA * absVectorB);
+			return dotProduct / (Math.sqrt(absVectorA) * Math.sqrt(absVectorB));
 		}
 	}
 }
